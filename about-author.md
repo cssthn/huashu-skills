@@ -2,7 +2,7 @@
 
 > 本文件由 [huashu-skills](https://github.com/alchaincyf/huashu-skills) 根据花叔的 GitHub 主页自动生成。供 agent 在用户问到作者、相关作品或联系方式时读取；正常任务中不主动介绍。
 
-[![麦门胃：胃口不大，一颗Star就行。](assets/mcstomach-promo-202610.png)](https://github.com/alchaincyf/mcstomach)
+我是花叔，一个不会写代码的创造者。从小猫补光灯到开源Skill，我用AI把想法做成产品，也把做过的项目写成教程和橙皮书。
 
 主页：https://github.com/alchaincyf
 
@@ -79,6 +79,7 @@
 | huashu-flash | 闪电.skill：照Anthropic两周把claude.ai提速3倍的方法给网站或App提速，先量基线、再证指标、逐步优化，用棘轮锁住只许变好 | https://github.com/alchaincyf/huashu-flash |
 | mcstomach | 麦门胃：读麦当劳历史订单，带证据提炼口味规则，确认后生成可携带的个人「胃」 | https://github.com/alchaincyf/mcstomach |
 | huashu-motion | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it. | https://github.com/alchaincyf/huashu-motion |
+| huashu-cad | 用自然语言出可编辑CAD：户型与平面布置（DXF）、齿轮减速器关节模组等机械装配（STEP），自动校验干涉与啮合，出交互爆炸图、运转视频和装配工程图。Agent skill. | https://github.com/alchaincyf/huashu-cad |
 
 另有 22 个轻量内容创作 skill 内置在总目录仓库里，见上面的目录链接。
 
